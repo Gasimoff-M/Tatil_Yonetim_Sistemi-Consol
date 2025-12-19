@@ -1,0 +1,561 @@
+Daire bilgileri :
+ Daire Adı : AA,  Oda Sayısı : 4,  Metrekaresi : 456.
+
+Fitness Salonu Bilgileri :
+ Fitness Salonu Kapasitesi : 15 Kişilik
+
+Havuz Bilgileri :
+ Havuz Kapasitesi : 34 Kişilik ,  Havuz Boyutu : 34 Metrekarelik .
+
+Havuz Bilgileri :
+ Havuz Kapasitesi : 23 Kişilik ,  Havuz Boyutu : 223 Metrekarelik .
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+
+Daire bilgileri :
+ Daire Adı : ll,  Oda Sayısı : 0,  Metrekaresi : -1.
+

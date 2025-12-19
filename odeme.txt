@@ -1,0 +1,4 @@
+Ödeme Bilgiler : 
+ Ödeme Yapan : aa Ödenen tutar : 234TL  BORÇ VAR !Ödeme Bilgiler : 
+ Ödeme Yapan : uu Ödenen tutar : 899TL  BORÇ VAR !Ödeme Bilgiler : 
+ Ödeme Yapan : aa Ödenen tutar : 700TL  BORÇ VAR !

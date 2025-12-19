@@ -1,0 +1,6 @@
+Oturan Bilgileri : 
+ Oturan Adý : aa  Oturan Derecesi : aa  Oturanýn Daire Adý : bb
+Oturan Bilgileri : 
+ Oturan Adý : 5  Oturan Derecesi : 3  Oturanýn Daire Adý : 5
+Oturan Bilgileri : 
+ Oturan Adý : aa  Oturan Derecesi : s  Oturanýn Daire Adý : 44
